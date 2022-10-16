@@ -1,4 +1,4 @@
-# Hacktoberfest2022
+# Hacktoberfest 2022
 Make your first Pull Request on Hacktoberfest 2022. Don't forget to spread love and if you like give us a star
 ### Quality of Pull Request is Paramount, Quantity comes Second
 <p align="center"> <img src="https://uno-website-assets.s3.amazonaws.com/wp-content/uploads/2022/09/28094927/Uno_HackFest22_Hero_V1-1024x395.jpg" alt="image" /> </p>
